@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">rmp_pr16_1_Savitsin</string>
+    <string name="your_login">Your login</string>
+    <string name="your_password">Your password</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="name">Ваше имя:</string>
+    <string name="sharedPreference">SharedPreference</string>
+    <string name="back">Назад</string>
+</resources>
